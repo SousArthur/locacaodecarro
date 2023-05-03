@@ -1,0 +1,30 @@
+F:\Unip\POO\loadora\bin\Debug\net7.0\loadora.exe
+F:\Unip\POO\loadora\bin\Debug\net7.0\loadora.deps.json
+F:\Unip\POO\loadora\bin\Debug\net7.0\loadora.runtimeconfig.json
+F:\Unip\POO\loadora\bin\Debug\net7.0\loadora.dll
+F:\Unip\POO\loadora\bin\Debug\net7.0\loadora.pdb
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.csproj.AssemblyReference.cache
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.AssemblyInfoInputs.cache
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.AssemblyInfo.cs
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.csproj.CoreCompileInputs.cache
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.dll
+F:\Unip\POO\loadora\obj\Debug\net7.0\refint\loadora.dll
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.pdb
+F:\Unip\POO\loadora\obj\Debug\net7.0\loadora.genruntimeconfig.cache
+F:\Unip\POO\loadora\obj\Debug\net7.0\ref\loadora.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\bin\Debug\net7.0\loadora.exe
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\bin\Debug\net7.0\loadora.deps.json
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\bin\Debug\net7.0\loadora.runtimeconfig.json
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\bin\Debug\net7.0\loadora.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\bin\Debug\net7.0\loadora.pdb
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.csproj.AssemblyReference.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.AssemblyInfoInputs.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.AssemblyInfo.cs
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\refint\loadora.dll
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.pdb
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\loadora.genruntimeconfig.cache
+C:\Users\Arthur Sousa\Documents\Progração Orientado ao Objeto\Locadora carro\obj\Debug\net7.0\ref\loadora.dll
